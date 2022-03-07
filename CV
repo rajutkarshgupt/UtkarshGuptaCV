@@ -1,4 +1,3 @@
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
@@ -84,7 +83,7 @@
 \section{Education} 
 
 \subsection{IIIT | 2014 - 2018}
-\location{BTech in Information Technology}
+\location{B.Tech in Information Technology}
 \location{ Cum. GPA: 10.0 / 10.0}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -107,8 +106,9 @@
 \item WebD Languages :-
 \sectionsep
 \begin{tightemize}
-\item Javascript(ES6)
-\item Typescript
+\item JavaScript(ES6)
+\item TypeScript
+\item Python
 
 \end{tightemize}
 \sectionsep
@@ -121,7 +121,7 @@
 
 \end{tightemize}
 \sectionsep
-\item WebD Libraries :-
+\item Web Libraries :-
 \sectionsep
 \begin{tightemize}
 \item Libuv
@@ -153,10 +153,9 @@
 CodeChef: \href{https://www.codechef.com/users/utkarshg_1998}{\bf utkarshg\_1998} \\
 GitHub: \href{https://github.com/rajutkarshgupt}{\bf rajutkarshgupt} \\
 LeetCode: \href{https://leetcode.com/rajutkarshgupta/}{\bf rajutkarshgupta}
+HackerEarth: \href{https://www.hackerearth.com/@rajutkarsh}{\bf rajutkarsh}
 HackerRank: \href{https://www.hackerrank.com/rajutkarshgupta}{\bf rajutkarshgupta}
 \sectionsep
-
-Solved over 500+ coding problems across platforms
 
 \section{OS }
 
@@ -180,18 +179,19 @@ Shell scripts
 \section{Experience}
 \runsubsection{O4S}
 \descript{| SDE2 }
-\location{Apr 2020 - Present | India}
+\location{March 2020 - Present | India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Developed distributed, microservice based system which can generate \& activate QR's, parallely for more than 5 concurrent clients' queries of scale of millions.
 \item Have experience with Microservices, SQL and NoSQL, AWS, Big Data /& Hadoop platform, Elastic Search Analytics and complex software systems.
-\item Worked on Microservice based architecture using Docker in Node.JS (Javascript, ES6), Express.JS, MongoDB.
+\item Worked on Microservice based architecture using Docker in Node.JS (JavaScript, ES6), Express.JS, MongoDB.
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Tata 1mg}
 \descript{| Software Engineer}
-\location{Apr 2018 - Apr 2020| Gurugram, India}
+\location{Apr 2018 - March
+2020| Gurugram, India}
 \begin{tightemize}
 \item Developed distributed system for discount coupons, scalable enough to cater millions concurrent users applying discount coupons.\hspace{70mm} 
 \item Built various Tata 1mg’s high performing, scalable, multi-ter, distributed, large scale
@@ -213,14 +213,14 @@ E-Commerce software systems which deliver great value to millions of customers.\
 \sectionsep
 \begin{tightemize}
     \item \begin{normalsize}
-2242 rated Orange 6 star on CodeChef\hspace{33mm}Global Rank: 31\hspace{18mm}Handle: \href{https://www.codechef.com/users/utkarshg_1998}{\bf utkarshg\_1998}              \end{normalsize}
+2242 rated,  star on CodeChef\hspace{55mm}Global Rank: 31\hspace{18mm}Handle: \href{https://www.codechef.com/users/utkarshg_1998}{\bf utkarshg\_1998}              \end{normalsize}
 
     \item \begin{normalsize}
-1796 rated Yellow Coder on TopCoder\hspace{34mm}India Rank: 7 
+1796 rated, Yellow Coder on TopCoder\hspace{42mm}India Rank: 7 
     \end{normalsize}
 
     \item \begin{normalsize}
-ICPC Asia Finalist\hspace{5mm}\hspace{60mm}India Rank: 9
+ICPC Asia West Finalist\hspace{5mm}\hspace{60mm}India Rank: 9
     \end{normalsize}
     
 \item \begin{normalsize}
@@ -246,23 +246,23 @@ All India Mental Ability Rank 1st in Indian Intelligence Test by IIT-BHU
 
 \section{Projects}
 \runsubsection{Counter Strike AutoPlay Simulator}
-\descript{ | \href{https://github.com/rajutkarshgupt/CS_AI_SIMULATOR}{\bf Github Link} }
+\descript{| \href{https://github.com/rajutkarshgupt/CS_AI_SIMULATOR}{\bf GitHub Link} }
 \begin{tightemize}
-\item Simulates computer game named CS Go from begining to end result.
+\item Developed simulator of computer game named CS Go which simulates the game from begining to end result.
 \item Developed using Object Oriented Methodology in Java. 
 \item Simulation completes in O(nlogn * mlogm) for n \& m players in Terrorist \& Counter Terrorist team
 \end{tightemize}
 
 \runsubsection{Handwritten Text to Editable Text}
-\descript{ | \href{https://github.com/rajutkarshgupt/Handwritten-Text-to-Editable-Text-Converter}{\bf Github Link}}
+\descript{| \href{https://github.com/rajutkarshgupt/Handwritten-Text-to-Editable-Text-Converter}{\bf GitHub Link}}
 \begin{tightemize}
-\item Developed OCR model by writing 3 layered Feed Forward Neural Net classifying characters in 65 character classes each of which was redirected to file editor.
-\item 90.05\% accuracy with Sigmoid activation function and training by MNIST dataset.
+\item Developed the entire Software which also include OCR model by writing 3 layered Feed Forward Neural Net classifying characters in 65 character classes each of which was redirected to file editor.
+\item 90.05\% accuracy with Sigmoid activation function \& training by MNIST dataset.
 \end{tightemize}
 \runsubsection{Malicious Website Detector}
-\descript{ | \href{https://github.com/rajutkarshgupt/phishing_website_detector}{\bf Github Link} }
+\descript{| \href{https://github.com/rajutkarshgupt/phishing_website_detector}{\bf Github Link} }
 \begin{tightemize}
-\item Detects whether a website is a malicious or legitimate by categorising URL subparts by 12 decision parameters \& classifying the binary decision array by ML model.
+\item Developed detector that detects whether a website is a malicious or legitimate by categorising URL subparts by 12 decision parameters \& classifying the binary decision array by ML model.
 \end{tightemize}
 
 \sectionsep
@@ -270,4 +270,3 @@ All India Mental Ability Rank 1st in Indian Intelligence Test by IIT-BHU
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
-
